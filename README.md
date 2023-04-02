@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berl-cloud&label=Profile%20views&color=0e75b6&style=flat" alt="berl-cloud" /> </p>
 
-<h6>
-- 🔭 I’m currently working on **analysing dataset of a bike company to reveal useful customer insights, which will help to optimise resource allocation for targeted marketing.** </h6>
-<h6>
+
+- 🔭 I’m currently working on **analysing dataset of a bike company to reveal useful customer insights, which will help to optimise resource allocation for targeted marketing.** 
+
 - 👯 I’m available to collaborate on **Data science and analytics projects.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Berl-cloud?tab=repositories](https://github.com/Berl-cloud?tab=repositories)
 
 - 🏌️‍♀️ Fun fact:  **I love to listen to choral music and I play golf.** 
-</h6>
+
 
 <h5 align="left">Let's connect:</h5>
 <p align="left">
